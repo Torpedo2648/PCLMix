@@ -4,11 +4,11 @@ Pytorch implementation of our PCLMix (Weakly Supervised Medical Image Segmentati
 
 ## Core idea
 
-<img title="" src="./figs/ugpcl.jpg" alt="ugpcl" width="50" align="center">
+<img title="" src="./figs/ugpcl.jpg" alt="ugpcl" width="50%" align="center">
 
 ## Overview of PCLMix
 
-<img src="./figs/pclmix.jpg" width = "100%" height = "100%" alt="pclmix" align=center>
+<img src="./figs/overview.jpg" width = "100%" height = "100%" alt="pclmix" align=center>
 
 ## Visual result
 
