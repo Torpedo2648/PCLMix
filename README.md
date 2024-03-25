@@ -30,11 +30,11 @@ Pytorch implementation of our PCLMix (Weakly Supervised Medical Image Segmentati
 2. Train the model.
    
    ```bash
-   python train_contrast.py --exp "PCLMix_contrast" --fold fold1 --contrast_weight 0.13 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.1 --gpu 0
-   python train_contrast.py --exp "PCLMix_contrast" --fold fold2 --contrast_weight 0.13 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.1 --gpu 0
-   python train_contrast.py --exp "PCLMix_contrast" --fold fold3 --contrast_weight 0.13 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.1 --gpu 0
-   python train_contrast.py --exp "PCLMix_contrast" --fold fold4 --contrast_weight 0.13 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.1 --gpu 0
-   python train_contrast.py --exp "PCLMix_contrast" --fold fold5 --contrast_weight 0.13 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.1 --gpu 0
+   python train_contrast.py --exp "PCLMix_contrast" --fold fold1 --contrast_weight 0.1 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.4 --gpu 0
+   python train_contrast.py --exp "PCLMix_contrast" --fold fold2 --contrast_weight 0.1 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.4 --gpu 0
+   python train_contrast.py --exp "PCLMix_contrast" --fold fold3 --contrast_weight 0.1 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.4 --gpu 0
+   python train_contrast.py --exp "PCLMix_contrast" --fold fold4 --contrast_weight 0.1 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.4 --gpu 0
+   python train_contrast.py --exp "PCLMix_contrast" --fold fold5 --contrast_weight 0.1 --het_weight 1.0 --unsup_m_weight 1.0 --tf_decoder_weight 0.4 --gpu 0
    ```
 
 3. Test the model.
