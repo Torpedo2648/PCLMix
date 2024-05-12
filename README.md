@@ -3,7 +3,7 @@
 Pytorch implementation of our PCLMix (Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation). 
 
 ## News
-Congratulations! This work has been accepted by ICIC2024. Due to space constraints of the publisher, the retrieved article is an abbreviated version, while the complete version can be accessed at the following link: http://arxiv/abs/my-paper.
+Congratulations! This work has been accepted by ICIC2024. Due to space limitations, this final submitted document represents an abridged version. The full version of this paper, including more detailed information and data, can be accessed at https://arxiv.org/abs/my-paper.
 
 ## Core idea
 
