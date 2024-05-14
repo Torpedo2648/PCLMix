@@ -2,6 +2,9 @@
 
 Pytorch implementation of our PCLMix (Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation). 
 
+## News
+Congratulations! This work has been accepted by ICIC2024. Due to space limitations, this final submitted document represents an abridged version. The full version of this paper, including more detailed information and data, can be accessed at https://arxiv.org/abs/2405.06288.
+
 ## Core idea
 
 <img title="" src="./figs/ugpcl.jpg" alt="ugpcl" width="50%" align="center">
@@ -43,10 +46,17 @@ Pytorch implementation of our PCLMix (Weakly Supervised Medical Image Segmentati
    python test_cnn.py --exp "PCLMix_contrast" --gpu 0
    ```
    
-   ## Supplementary notes
-   
-   The current project code is incomplete, and the full code will be published after the paper is received.
-   
-   ## Acknowledgement
-   
-   The code is modified from [TriMix](https://github.com/MoriLabNU/TriMix) and [WSL4MIS](https://github.com/HiLab-git/WSL4MIS).
+## Acknowledgement
+
+The code is modified from [TriMix](https://github.com/MoriLabNU/TriMix) and [WSL4MIS](https://github.com/HiLab-git/WSL4MIS).
+
+## Citations
+
+```latex
+@inproceedings{Lei2024PCLMixWS,
+  title={PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation},
+  author={Yu Lei and Haolun Luo and Lituan Wang and Zhenwei Zhang and Lei Zhang},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:269740819}
+}
+```
