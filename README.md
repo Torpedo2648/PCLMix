@@ -46,10 +46,19 @@ Congratulations! This work has been accepted by ICIC2024. Due to space limitatio
    python test_cnn.py --exp "PCLMix_contrast" --gpu 0
    ```
    
-   ## Supplementary notes
-   
-   The current project code is incomplete, and the full code will be published after the paper is received.
-   
-   ## Acknowledgement
-   
-   The code is modified from [TriMix](https://github.com/MoriLabNU/TriMix) and [WSL4MIS](https://github.com/HiLab-git/WSL4MIS).
+## Acknowledgement
+
+The code is modified from [TriMix](https://github.com/MoriLabNU/TriMix) and [WSL4MIS](https://github.com/HiLab-git/WSL4MIS).
+
+## Citations
+
+```latex
+@misc{lei2024pclmix,
+   title={PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation}, 
+   author={Yu Lei and Haolun Luo and Lituan Wang and Zhenwei Zhang and Lei Zhang},
+   year={2024},
+   eprint={2405.06288},
+   archivePrefix={arXiv},
+   primaryClass={cs.CV}
+}
+```
