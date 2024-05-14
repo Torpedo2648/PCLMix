@@ -53,12 +53,10 @@ The code is modified from [TriMix](https://github.com/MoriLabNU/TriMix) and [WSL
 ## Citations
 
 ```latex
-@misc{lei2024pclmix,
-   title={PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation}, 
-   author={Yu Lei and Haolun Luo and Lituan Wang and Zhenwei Zhang and Lei Zhang},
-   year={2024},
-   eprint={2405.06288},
-   archivePrefix={arXiv},
-   primaryClass={cs.CV}
+@inproceedings{Lei2024PCLMixWS,
+  title={PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation},
+  author={Yu Lei and Haolun Luo and Lituan Wang and Zhenwei Zhang and Lei Zhang},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:269740819}
 }
 ```
