@@ -48,7 +48,7 @@ Congratulations! This work has been accepted by ICIC2024. Due to space limitatio
    
 ## Acknowledgement
 
-The code is modified from [TriMix](https://github.com/MoriLabNU/TriMix) and [WSL4MIS](https://github.com/HiLab-git/WSL4MIS).
+The code is modified from [TriMix](https://github.com/MoriLabNU/TriMix), [WSL4MIS](https://github.com/HiLab-git/WSL4MIS) and [UHPCL](https://github.com/taovv/UGPCL).
 
 ## Citations
 
